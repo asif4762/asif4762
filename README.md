@@ -29,11 +29,11 @@
     <td align="center"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"><br>JavaScript</td>
     <td align="center"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react"><br>React</td>
     <td align="center"><img height="30" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind css"><br>Tailwind CSS</td>
-    <td align="center"><img height="30" src="https://skillicons.dev/icons?i=daisyui" alt="daisyui"><br>Daisy UI</td>
+    <td align="center"><img height="30" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma"><br>Figma</td>
   </tr>
   <tr>
     <td align="center"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs"><br>Node.js</td>
-    <td align="center"><img height="30" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="nextjs"><br>Next.js</td>
+    <td align="center"><img height="30" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs"><br>Next.js</td>
   </tr>
 </table>
 
@@ -41,5 +41,4 @@
 
 <p align="left">
   <a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asifzaman&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
-</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com
