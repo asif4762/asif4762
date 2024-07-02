@@ -1,6 +1,15 @@
 <h1 align="left" id="asifzaman-title">:wave: Hello there! I'm Asif Zaman</h1>
 <h3 align="left">I am a Fullstack Web Developer</h3>
 
+<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
+<a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
+  
+  - 🔭 I’m currently studing BSc.Engr in Computer Science and Engineering.
+  - 🌱 I’m currently learning Object-oriented programming with java and cpp .
+  - 💬 Ask me about java, cpp, c, html, css, javascript;
+  - 😄 Pronouns: He / Him
+  - ⚡ Fun fact: My name is an anagram of "I Play Data"
+
 <p align="center">
   <a href="https://github.com/asifzaman">
     <img src="https://github-readme-stats.vercel.app/api?username=asifzaman&show_icons=true&theme=radical" alt="asifzaman" />
