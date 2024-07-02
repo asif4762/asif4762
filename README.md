@@ -16,24 +16,24 @@
 
 <table>
   <tr>
-    <td align="center"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"></td>
-    <td align="center"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++"></td>
-    <td align="center"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"></td>
-    <td align="center"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></td>
-    <td align="center"><img height="30" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase"></td>
-    <td align="center"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb"></td>
+    <td align="center"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"><br>Java</td>
+    <td align="center"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++"><br>C++</td>
+    <td align="center"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"><br>C</td>
+    <td align="center"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"><br>Git</td>
+    <td align="center"><img height="30" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase"><br>Firebase</td>
+    <td align="center"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb"><br>MongoDB</td>
   </tr>
   <tr>
-    <td align="center"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html"></td>
-    <td align="center"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css"></td>
-    <td align="center"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"></td>
-    <td align="center"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react"></td>
-    <td align="center"><img height="30" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind css"></td>
-    <td align="center"><img height="30" src="https://skillicons.dev/icons?i=daisyui" alt="daisyui"></td>
+    <td align="center"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html"><br>HTML5</td>
+    <td align="center"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css"><br>CSS3</td>
+    <td align="center"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"><br>JavaScript</td>
+    <td align="center"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react"><br>React</td>
+    <td align="center"><img height="30" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind css"><br>Tailwind CSS</td>
+    <td align="center"><img height="30" src="https://skillicons.dev/icons?i=daisyui" alt="daisyui"><br>Daisy UI</td>
   </tr>
   <tr>
-    <td align="center"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs"></td>
-    <td align="center"><img height="30" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="nextjs"></td>
+    <td align="center"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs"><br>Node.js</td>
+    <td align="center"><img height="30" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="nextjs"><br>Next.js</td>
   </tr>
 </table>
 
