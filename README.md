@@ -1,6 +1,6 @@
 [![Banner][banner-img]][banner-link]
-
-## About Me <a href="https://github.com/sciencepal"><img src="https://user-images.githubusercontent.com/18357886/168502403-98205555-7065-4913-9343-041404140414.gif" width="100%"/></a>
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
+## About Me 
 
 <h1 align="left" id="asifzaman-title">:wave: Hello there! I'm Asif Zaman</h1>
 <h3 align="left">I am a Fullstack Web Developer</h3>
