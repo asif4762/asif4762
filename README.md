@@ -1,85 +1,74 @@
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
-## About Me 
+## 👋 Hello there! I'm Asif Zaman
 
-<h1 align="left" id="asifzaman-title">:wave: Hello there! I'm Asif Zaman</h1>
-<h3 align="left">I am a Fullstack Web Developer</h3>
+### 👨‍💻 Fullstack Web Developer | 🧠 Aspiring Machine Learning Engineer
 
- - 🔭 I’m currently studying BSc.Engr in Computer Science and Engineering.
- - 🌱 I’m currently learning Object-oriented programming with java and cpp .
- - 💬 Ask me about java, cpp, c, html, css, javascript;
- - 😄 Pronouns: He / Him
- - ⚡ Fun fact: My name is an anagram of "I Play Data"
+- 🎓 Pursuing **BSc.Engr in Computer Science and Engineering**
+- 💻 Currently learning **OOP with Java and C++**
+- 📘 Recently completed:
+  - ✅ Codebasics: **Machine Learning (Beginner to Advanced)**
+  - ✅ Udemy: **Machine Learning A-Z**
+  - ✅ Udemy: **Deep Learning A-Z**
+- 🧠 Focus Area: NLP & Large Language Models (LLMs)
+- 💬 Ask me about: `Java`, `C++`, `C`, `Python`, `HTML`, `CSS`, `JavaScript`, `React`, `Next.js`, `Machine Learning`, `Deep Learning`
+- 😄 Pronouns: **He / Him**
+- ⚡ Fun Fact: My name is an anagram of **"I Play Data"**
 
-<br/>
+---
 
-[banner-img]: https://raw.githubusercontent.com/asifzaman/asifzaman/main/banner.png 
-[banner-link]: https://github.com/asifzaman
+### 🌐 Connect with Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/a-k-m-asifuzzaman-5ab169303)
+[![Twitter](https://img.shields.io/badge/X-1DA1F2?logo=twitter&style=flat-square)](https://x.com/zaman_asif44123)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&style=flat-square)](https://www.facebook.com/isu.asu.4762?mibextid=ZbWKwL)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=flat-square)](mailto:akmasifuzzaman44123@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/asifzaman?label=GitHub&style=flat-square)](https://github.com/asifzaman)
 
+---
 
-<p align="center">
- <a href="https://github.com/asifzaman">
-  <img src="https://github-readme-stats.vercel.app/api?username=asifzaman&show_icons=true&theme=radical" alt="asifzaman" />
- </a>
-</p>
-<p align="center">
- <a href="https://github.com/asifzaman?tab=followers">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/asifzaman?style=flat&logo=github">
- </a>
-</p>
+### 🛠️ Languages & Tools
 
-<br/>
+**Programming & Scripting:**  
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=flat-square)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
 
-<h3 align="left"> 🤝 Connect with Me:</h3>
-<p align="left"> 
- <a href="https://www.linkedin.com/in/a-k-m-asifuzzaman-5ab169303">
- <img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="18px"/>
- </a>
- <a href="https://x.com/zaman_asif44123">
- <img align="left" alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="18px"/>
- </a>
- <a href="https://www.facebook.com/isu.asu.4762?mibextid=ZbWKwL">
- <img align="left" alt="facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="18px"/>
- </a>
- <a href="mailto:zasif855@gmail.com">
- <img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="18px"/>
- </a> 
-</p>
+**Frontend & Styling:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square)
 
-<br/>
+**Backend & Databases:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square)
+![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
 
-<h3 align="left"> 🛠️ Languages and Tools :</h3>
+**ML / DL Libraries:**  
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat-square)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=flat-square)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white&style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-3F51B5?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square)
+![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat-square)
 
-<table>
- <tr>
-  <td align="center"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"><br>Java</td>
-  <td align="center"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++"><br>C++</td>
-  <td align="center"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"><br>C</td>
-  <td align="center"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"><br>Git</td>
-  <td align="center"><img height="30" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase"><br>Firebase</td>
-  <td align="center"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb"><br>MongoDB</td>
- </tr>
- <tr>
-  <td align="center"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html"><br>HTML5</td>
-  <td align="center"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css"><br>CSS3</td>
-  <td align="center"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"><br>JavaScript</td>
-  <td align="center"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react"><br>React</td>
-  <td align="center"><img height="30" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind css"><br>Tailwind CSS</td>
-  <td align="center"><img height="30" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma"><br>Figma</td>
- </tr>
- <tr>
-  <td align="center"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs"><br>Node.js</td>
-  <td align="center"><img height="30" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs"><br>Next.js</td>
- </tr>
-</table>
+**Tools & Platforms:**  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
+![VS Code](https://img.shields.io/badge/VS--Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?logo=googlecolab&logoColor=black&style=flat-square)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=flat-square)
 
-<h3 align="left">🔥 My Stats :</h3>
+---
 
-<p align="left">
- <a href="https://git.io/streak-stats">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=asifzaman&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
-</p>
+### 🔥 GitHub Stats
 
-Live Link Assignment 12 : https://rentease-2105a.web.app/
-Live Link Assignment 11 : https://assignment-11-80f5f.web.app/
-Live Link Assignment 10 : https://assignment-10-5b48d.web.app/
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=asifzaman&theme=tokyonight&hide_border=true)](https://github.com/asifzaman)
