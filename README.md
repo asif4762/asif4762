@@ -12,7 +12,7 @@
 - 🎓 I'm a **BSc.Engr CSE student**
 - 💡 Passionate about **Fullstack Web Dev**, **Machine Learning**, and **Deep Learning**
 - 🤖 Final Goal: **NLP + LLM Research**
-- 🌱 Currently learning: `OOP`, `Data Structures`, `DL Projects`
+- 🌱 Currently learning: `ML and DL Projects`
 - 😄 Pronouns: **He / Him**
 - 🔁 Fun Fact: “Asif Zaman” = *I Play Data* 🧠
 
