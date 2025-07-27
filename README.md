@@ -21,7 +21,7 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/a-k-m-asifuzzaman-5ab169303" target="_blank">
+  <a href="https://www.linkedin.com/in/a-k-m-asifuzzaman-6027442a7" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://x.com/zaman_asif44123" target="_blank">
