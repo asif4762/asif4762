@@ -212,7 +212,7 @@ const asifZaman: Developer = {
 ## 📌 **FEATURED PROJECTS**
 
 <p>
-  <a href="https://github.com/asifzaman?tab=repositories">
+  <a href="https://github.com/asif4762?tab=repositories">
     <img src="https://img.shields.io/badge/View%20All%20Repositories-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories"/>
   </a>
 </p>
