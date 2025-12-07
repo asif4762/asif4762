@@ -75,8 +75,8 @@ const asifZaman: Developer = {
   code: ["Python", "JavaScript", "TypeScript", "Java", "C++", "C"],
   technologies: {
     frontEnd: ["React", "Next.js", "Tailwind CSS", "HTML5", "CSS3"],
-    backEnd: ["Node.js", "Express.js", "REST APIs", "GraphQL"],
-    aiMl: ["TensorFlow", "Keras", "Scikit-Learn", "OpenCV", "NLP"],
+    backEnd: ["Node.js", "Express.js", "FastAPI", "REST APIs", "GraphQL"],
+    aiMl: ["PyTorch", "TensorFlow", "Keras", "Scikit-Learn", "OpenCV", "NLP"],
     databases: ["MongoDB", "MySQL", "Firebase", "PostgreSQL"],
     tools: ["Git", "Docker", "VS Code", "Jupyter", "Figma"]
   },
@@ -117,11 +117,13 @@ const asifZaman: Developer = {
 ### **Backend & APIs**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
 
 ### **AI/ML & Data Science**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
