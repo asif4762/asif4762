@@ -287,7 +287,7 @@ const asifZaman: Developer = {
 
 <p>If you find my projects helpful, consider giving them a ⭐️!</p>
 
-<a href="https://www.buymeacoffee.com/asifzaman">
+<a href="https://cdn.buymeacoffee.com/buttons/v2/default-black.png">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png=☕&slug=asifzaman&button_colour=00D9FF&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" />
 </a>
 
