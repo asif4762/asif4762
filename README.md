@@ -283,20 +283,6 @@ const asifZaman: Developer = {
 <!-- Support Section -->
 <div align="center">
 
-## ☕ **SUPPORT MY WORK**
-
-<p>If you find my projects helpful, consider giving them a ⭐️!</p>
-
-<a href="https://cdn.buymeacoffee.com/buttons/v2/default-black.png">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png=☕&slug=asifzaman&button_colour=00D9FF&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" />
-</a>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<!-- Footer with wave animation -->
-<div align="center">
 
 ### 🌟 **"Code. Learn. Innovate. Repeat."** 🌟
 
