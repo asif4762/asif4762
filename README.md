@@ -211,11 +211,13 @@ const asifZaman: Developer = {
 
 ## 📌 **FEATURED PROJECTS**
 
-<a href="https://github.com/asifzaman?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=asifzaman&repo=asifzaman&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" width="48%" alt="Featured Repo"/>
-</a>
+<p>
+  <a href="https://github.com/asifzaman?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Repositories-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories"/>
+  </a>
+</p>
 
-**🔍 Explore More Projects** → [View All Repositories](https://github.com/asifzaman?tab=repositories)
+**🚀 Check out my repositories to see what I'm building!**
 
 </div>
 
