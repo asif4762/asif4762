@@ -1,194 +1,323 @@
 <div align="center">
 
-# 👨‍💻 Asif Zaman
+<!-- Header with animated gradient -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Asif%20Zaman&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-### Fullstack Developer • ML Engineer • NLP Researcher
+<!-- Animated subtitle -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%F0%9F%92%BB;Machine+Learning+Engineer+%F0%9F%A4%96;NLP+%26+LLM+Researcher+%F0%9F%A7%A0;Transforming+Ideas+into+Reality+%E2%9C%A8;Open+Source+Enthusiast+%F0%9F%8C%9F" alt="Typing SVG" />
+</div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Web+Applications;Exploring+Deep+Learning+%26+NLP;Transforming+Ideas+into+Code;Open+to+Collaboration+%F0%9F%A4%9D)](https://git.io/typing-svg)
-
-<p>
-  <a href="https://www.linkedin.com/in/a-k-m-asifuzzaman-6027442a7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://x.com/zaman_asif44123"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-  <a href="mailto:akmasifuzzaman44123@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://github.com/asifzaman"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<!-- Animated profile views counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=asifzaman&label=PROFILE+VIEWS&color=brightgreen&style=for-the-badge" alt="watching_count" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Web%20Dev-00D9FF?style=for-the-badge" alt="focus" />
+  <img src="https://img.shields.io/badge/Lives-Bangladesh-success?style=for-the-badge&logo=google-maps" alt="location" />
+  <img src="https://img.shields.io/badge/Languages-6+-00D9FF?style=for-the-badge&logo=code" alt="languages" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Social badges with glow effect -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/a-k-m-asifuzzaman-6027442a7">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/zaman_asif44123">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="mailto:akmasifuzzaman44123@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/asifzaman">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://github.com/asifzaman?tab=repositories">
+    <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
 </div>
 
-## 🎯 About Me
+<!-- Glowing divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-```javascript
-const asifZaman = {
-    education: "BSc.Engr in Computer Science & Engineering",
-    location: "Chattogram, Bangladesh 🇧🇩",
-    currentFocus: ["Fullstack Development", "Machine Learning", "Deep Learning"],
-    futureGoals: "NLP & LLM Research",
-    learningPath: "Building Production-Ready ML Projects",
-    philosophy: "Transform data into insights, insights into impact",
-    funFact: "Debugging is like being a detective in a crime movie where you're also the murderer 🕵️"
+<!-- About section with terminal theme -->
+<div align="center">
+
+## 🚀 **ABOUT ME**
+
+</div>
+
+```typescript
+interface Developer {
+  name: string;
+  role: string;
+  education: string;
+  location: string;
+  code: string[];
+  technologies: {
+    frontEnd: string[];
+    backEnd: string[];
+    aiMl: string[];
+    databases: string[];
+    tools: string[];
+  };
+  architecture: string[];
+  currentMission: string;
+  futureGoal: string;
+  mindset: string;
+}
+
+const asifZaman: Developer = {
+  name: "A K M Asifuzzaman",
+  role: "Fullstack Developer & ML Engineer",
+  education: "BSc.Engr in Computer Science & Engineering",
+  location: "Chattogram, Bangladesh 🇧🇩",
+  code: ["Python", "JavaScript", "TypeScript", "Java", "C++", "C"],
+  technologies: {
+    frontEnd: ["React", "Next.js", "Tailwind CSS", "HTML5", "CSS3"],
+    backEnd: ["Node.js", "Express.js", "REST APIs", "GraphQL"],
+    aiMl: ["TensorFlow", "Keras", "Scikit-Learn", "OpenCV", "NLP"],
+    databases: ["MongoDB", "MySQL", "Firebase", "PostgreSQL"],
+    tools: ["Git", "Docker", "VS Code", "Jupyter", "Figma"]
+  },
+  architecture: ["Microservices", "Event-Driven", "MVC", "Serverless"],
+  currentMission: "Building production-ready ML-powered web applications",
+  futureGoal: "Leading NLP & LLM research innovations",
+  mindset: "Code with purpose, learn continuously, innovate relentlessly 🚀"
 };
 ```
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<!-- Tech Stack with animated icons -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 💻 **TECH STACK**
+
 </div>
 
-## 🚀 Tech Arsenal
+<div align="center">
 
-### Languages & Core
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+### **Languages**
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### **Frontend Development**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+
+### **Backend & APIs**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
+
+### **AI/ML & Data Science**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+
+### **Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### **Tools & Platforms**
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<!-- GitHub Stats with 3D effect -->
+<div align="center">
+
+## 📊 **GITHUB STATISTICS**
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asifzaman&theme=radical" alt="Profile Summary"/>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=asifzaman&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=asifzaman&theme=black-ice&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
 </p>
 
-### Frontend Development
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifzaman&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8&hide=Jupyter%20Notebook" alt="Top Languages"/>
+  <img width="48%" src="https://github-contributor-stats.vercel.app/api?username=asifzaman&limit=5&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&combine_all_yearly_contributions=true" alt="Contribution Stats"/>
 </p>
 
-### Backend & Databases
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-</p>
+<!-- Activity Graph -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=asifzaman&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
 
-### AI/ML & Data Science
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-</p>
-
-### Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Colab"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-</p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-## 📊 GitHub Analytics
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+<!-- Trophy Section -->
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=asifzaman&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=asifzaman&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+
+## 🏆 **ACHIEVEMENTS & TROPHIES**
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=asifzaman&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+
 </div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<!-- Current Focus Section -->
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifzaman&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages"/>
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=asifzaman&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Contribution Graph"/>
+
+## 🎯 **CURRENT FOCUS & LEARNING PATH**
+
 </div>
 
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🔥 **Working On**
+- 🧠 Deep Learning Architectures
+- 🤖 Large Language Models (LLMs)
+- 🌐 AI-Powered Web Applications
+- 📊 Advanced NLP Projects
+- ⚡ MLOps & Model Deployment
+
+</td>
+<td width="50%">
+
+### 🎓 **Learning Next**
+- 🔬 Transformer Architecture Deep Dive
+- 🚀 Production ML System Design
+- 🌟 Advanced React Patterns
+- 🔐 Cybersecurity Fundamentals
+- ☁️ Cloud Computing (AWS/GCP)
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<!-- Pinned Repos Preview -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📌 **FEATURED PROJECTS**
+
+<a href="https://github.com/asifzaman?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=asifzaman&repo=asifzaman&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" width="48%" alt="Featured Repo"/>
+</a>
+
+**🔍 Explore More Projects** → [View All Repositories](https://github.com/asifzaman?tab=repositories)
+
 </div>
 
-## 🏆 GitHub Trophies
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+<!-- Collaboration Section -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=asifzaman&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+
+## 🤝 **LET'S COLLABORATE**
+
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="200">
+
 </div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-## 🎓 Current Learning Path
-
-- 🧠 Advanced Deep Learning Architectures
-- 🤖 Large Language Models & Transformers
-- 🔬 Natural Language Processing Research
-- ⚡ Production ML System Design
-- 🌐 Fullstack Integration with AI Models
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-## 💼 Open for Opportunities
 
 ```yaml
-interests:
-  - Machine Learning Engineering
-  - Fullstack Development
-  - NLP Research & Development
+💼 Open For:
+  - Full-time Opportunities
+  - Freelance Projects
+  - Research Collaborations
   - Open Source Contributions
   - Technical Writing & Mentorship
 
-collaboration:
-  - AI/ML Projects
-  - Web Applications
-  - Research Papers
-  - Innovative Startups
+🎯 Interested In:
+  - Machine Learning Engineering
+  - Fullstack Web Development
+  - NLP & LLM Research
+  - AI Product Development
+  - Innovative Tech Startups
+
+📫 Best Way To Reach:
+  Email: akmasifuzzaman44123@gmail.com
+  LinkedIn: linkedin.com/in/a-k-m-asifuzzaman-6027442a7
 ```
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asifzaman&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Contribution Graph"/>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-## 💭 Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
+<!-- Quote Section -->
 <div align="center">
 
-### 💡 *"Code is like humor. When you have to explain it, it's bad."*
+## 💭 **DEVELOPER WISDOM**
 
-**Let's connect and build something extraordinary together!**
-
-<img src="https://komarev.com/ghpvc/?username=asifzaman&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The+best+way+to+predict+the+future+is+to+invent+it.&author=Alan+Kay" alt="Quote"/>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+<!-- Snake Animation -->
 <div align="center">
-  <sub>⭐ From <a href="https://github.com/asifzaman">Asif Zaman</a> with 💙</sub>
+
+## 🐍 **CONTRIBUTION SNAKE**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<!-- Support Section -->
+<div align="center">
+
+## ☕ **SUPPORT MY WORK**
+
+<p>If you find my projects helpful, consider giving them a ⭐️!</p>
+
+<a href="https://www.buymeacoffee.com/asifzaman">
+  <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=asifzaman&button_colour=00D9FF&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" />
+</a>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<!-- Footer with wave animation -->
+<div align="center">
+
+### 🌟 **"Code. Learn. Innovate. Repeat."** 🌟
+
+<p>
+  <img src="https://img.shields.io/github/followers/asifzaman?label=Followers&style=social" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/asifzaman?label=Stars&style=social" alt="GitHub Stars"/>
+</p>
+
+**Made with ❤️ and lots of ☕**
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
 </div>
