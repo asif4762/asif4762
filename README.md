@@ -155,19 +155,6 @@ const asifZaman: Developer = {
 
 ## 📊 **GITHUB STATISTICS**
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asifzaman&theme=radical" alt="Profile Summary"/>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=asifzaman&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=asifzaman&theme=black-ice&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifzaman&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8&hide=Jupyter%20Notebook" alt="Top Languages"/>
-  <img width="48%" src="https://github-contributor-stats.vercel.app/api?username=asifzaman&limit=5&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&combine_all_yearly_contributions=true" alt="Contribution Stats"/>
-</p>
-
-<!-- Activity Graph -->
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=asifzaman&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
 
 </div>
