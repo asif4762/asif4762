@@ -18,7 +18,7 @@
 
 <!-- Social badges with glow effect -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/a-k-m-asifuzzaman-6027442a7">
+  <a href="https://www.linkedin.com/in/a-k-m-asifuzzaman-6027442a7/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
   </a>
   <a href="https://x.com/zaman_asif44123">
